@@ -1,0 +1,39 @@
+*{
+    height: 100%;
+}
+
+html{
+    background-color: transparent;
+}
+
+body {
+    min-height: 100%;
+    background: url(/concept\ art.jpeg);
+}
+
+header {
+    color: white;
+}
+
+.main-nav {
+    background-color: black;
+    opacity: 75%;
+    color: white;
+    position: absolute;
+    top: 50px;
+    font-family: 'Roboto', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    height: 150px;
+    width: 1903px;
+    font-size: 18px;
+}
+
+.left-nav{
+   font-family: 'Roboto', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+}
+
+
+.right-nav {
+    position: absolute;
+    right: 50px;
+    top: 65px;
+}
